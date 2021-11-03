@@ -8,4 +8,4 @@ Download and extract the [install-cockpit.sh](/install-cockpit.sh) file in any d
 - from terminal by: **./install-cockpit.sh**
 
 > tested on CentOS 7.9.2009
-> It is part of our *(CS655) VSS: Virtual Systems and Services* course. 
+>> It is part of our *(CS655) VSS: Virtual Systems and Services* course. 
