@@ -1,6 +1,6 @@
 # Simple cockpit installation bash script
 
-This simple script will install DNF, cockpit, create socket, add cockpit to firewall and install extra features of cockpit: machines and dashboard before directing you to cockpit webview.
+###### This simple script will install DNF, cockpit, create socket, add cockpit to firewall and install extra features of cockpit: machines and dashboard before directing you to cockpit webview.###### 
 
 Download and extract the [install-cockpit.sh](/install-cockpit.sh) file in any directory then:
 - open terminal in file's directory.
